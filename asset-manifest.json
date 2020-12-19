@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-hometask/static/css/main.f8756d45.chunk.css",
+    "main.js": "/React-hometask/static/js/main.d4cb7bad.chunk.js",
+    "main.js.map": "/React-hometask/static/js/main.d4cb7bad.chunk.js.map",
+    "runtime-main.js": "/React-hometask/static/js/runtime-main.a8036a40.js",
+    "runtime-main.js.map": "/React-hometask/static/js/runtime-main.a8036a40.js.map",
+    "static/css/2.f3081fb4.chunk.css": "/React-hometask/static/css/2.f3081fb4.chunk.css",
+    "static/js/2.ee8869c1.chunk.js": "/React-hometask/static/js/2.ee8869c1.chunk.js",
+    "static/js/2.ee8869c1.chunk.js.map": "/React-hometask/static/js/2.ee8869c1.chunk.js.map",
+    "index.html": "/React-hometask/index.html",
+    "static/css/2.f3081fb4.chunk.css.map": "/React-hometask/static/css/2.f3081fb4.chunk.css.map",
+    "static/css/main.f8756d45.chunk.css.map": "/React-hometask/static/css/main.f8756d45.chunk.css.map",
+    "static/js/2.ee8869c1.chunk.js.LICENSE.txt": "/React-hometask/static/js/2.ee8869c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8036a40.js",
+    "static/css/2.f3081fb4.chunk.css",
+    "static/js/2.ee8869c1.chunk.js",
+    "static/css/main.f8756d45.chunk.css",
+    "static/js/main.d4cb7bad.chunk.js"
+  ]
+}
